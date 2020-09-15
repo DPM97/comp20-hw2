@@ -1,8 +1,8 @@
-github: https://dpm97.github.io/comp20-hw2/index.html
-000webhost: https://comp20dylan.000webhostapp.com
+github: https://dpm97.github.io/comp20-hw2/
+000webhost: https://comp20dylan.000webhostapp.com/
 
 Questions:
-1. github is definately easier to update through cmd line, however, their hosting is pretty limiting and it doesn't automatically choose index.html as the root.
-2. personally I would rather create a quick express api and host on heroku or AWS but JUST because of the root issue I would choose 000webhost over git. However, git is much better for storing files :)
+1. github - I am definately more familiar with it, it allows me to push code from cmd line & automatically updates the site per commit. cpanel - pretty good & intuitive interface /  easier for beginners. 
+2. personally I would rather create a quick express api and host on heroku or AWS but I would choose github because of the reasons listed above if I had to choose between the two.
 3. I was honestly pretty suprised how easy the 000webhost was to upload files / put the site online. Back when CPANEL was outdated it took FOREVER to get a working site - I think nowadays anyone can figure out how to host a simple webpage / site with no prior tech knowledge. 
 
